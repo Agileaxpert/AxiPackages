@@ -1,0 +1,38 @@
+[
+  {
+    "title": "MRP",
+    "description": "Professional grade material requirements planning",
+    "icon": "shopping_cart",
+    "colorClass": "orange"
+  },
+  {
+    "title": "Finance",
+    "description": "Comprehensive financial management suite",
+    "icon": "assured_workload",
+    "colorClass": "blue"
+  },
+  {
+    "title": "Procure to Pay",
+    "description": "End-to-end procurement workflow management",
+    "icon": "payments",
+    "colorClass": "green"
+  },
+  {
+    "title": "Order to Cash",
+    "description": "Complete order fulfillment and billing cycle",
+    "icon": "receipt_long",
+    "colorClass": "pink"
+  },
+  {
+    "title": "Fixed Asset",
+    "description": "Track and manage your company assets",
+    "icon": "apartment",
+    "colorClass": "red"
+  },
+  {
+    "title": "Inventory",
+    "description": "Real-time inventory tracking and control",
+    "icon": "widgets",
+    "colorClass": "purple"
+  }
+]
