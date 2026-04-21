@@ -28,5 +28,11 @@
     "description": "Track and manage your company assets",
     "icon": "apartment",
     "colorClass": "red"
+  },
+  {
+    "title": "Inventory",
+    "description": "Real-time inventory tracking and control",
+    "icon": "widgets",
+    "colorClass": "purple"
   }
 ]
